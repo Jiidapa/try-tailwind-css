@@ -10,7 +10,7 @@
     "postcss-cli": "^7.1.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1",
+    "react-scripts": "5.0.1",
     "tailwindcss": "^1.2.0"
   },
   "scripts": {
